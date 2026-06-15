@@ -319,7 +319,7 @@ Spam_Mail_Detection.ipynb
 
 # 👨‍💻 Author
 
-**Mehar**
+**Mehar-taj**
 
 Aspiring AI Engineer | Machine Learning Enthusiast | Data Science Learner
 
